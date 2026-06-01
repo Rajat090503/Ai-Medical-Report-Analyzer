@@ -2,9 +2,9 @@ Flask
 pandas
 numpy
 scikit-learn
-tensorflow
 opencv-python
 easyocr
 pillow
 pdfplumber
 joblib
+gunicorn
