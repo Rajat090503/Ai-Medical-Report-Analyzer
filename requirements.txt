@@ -8,3 +8,4 @@ pillow
 pdfplumber
 joblib
 gunicorn
+PyMuPDF
