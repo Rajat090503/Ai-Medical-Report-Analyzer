@@ -2,8 +2,6 @@ Flask
 pandas
 numpy
 scikit-learn
-opencv-python
-easyocr
 pillow
 pdfplumber
 joblib
